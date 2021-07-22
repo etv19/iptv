@@ -1,17 +1,18 @@
-#ALBANIA
-#Gjenarale
+#EXTM3U
+#EXTINF:ALBANIA
+#EXTINF:Gjenarale
 https://iptv-org.github.io/iptv/languages/sqi.m3u
-#Te gjitha
+#EXTINF:Te gjitha
 https://gratisiptv.com/m3u/al-gratisiptvm3u-2021-07-21-7.m3u
-#UK
+#EXTINF:UK
 https://iptv-org.github.io/iptv/languages/eng.m3u
-#FRANCE
+#EXTINF:FRANCE
 https://iptv-org.github.io/iptv/languages/fra.m3u
-#GERMAN
+#EXTINF:GERMAN
 https://iptv-org.github.io/iptv/languages/deu.m3u
-#ITALIAN
+#EXTINF:ITALIAN
 https://iptv-org.github.io/iptv/languages/ita.m3u
-#SLOVENIAN
+#EXTINF:SLOVENIAN
 https://iptv-org.github.io/iptv/languages/slv.m3u
-#SPANISH
+#EXTINF:SPANISH
 https://iptv-org.github.io/iptv/languages/spa.m3u
